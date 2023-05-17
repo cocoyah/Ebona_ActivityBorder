@@ -1,0 +1,108 @@
+body
+{
+	background: #A5A3A2;
+}
+
+.h1Style
+{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+h1
+{
+	text-align: center;
+	font-family: stencil;
+	border: 7px dotted black;
+	width: 600px;
+}
+
+.cont1
+{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	font-family: Bahnschrift;
+}
+
+.container
+{
+	font-family: Bahnschrift;
+	display: flex;
+	justify-content: center;
+}
+
+.cont1Inner
+{
+	font-family: Bahnschrift;
+	text-align: center;
+	border: 4px dashed black;
+	width: 900px 0;
+	margin: 0 10px;
+}
+
+.cont1Inner h2
+{
+	
+}
+
+.cont1Inner p
+{
+	width: 780px;
+}
+
+.Innercont1
+{
+	border: 5px ridge black;
+	width: 180px;
+	padding: 15px 20px;
+	position: relative;
+	top: 40px;
+	margin: 0 20px;
+}
+
+.Innercont2
+{
+	border: 5px ridge black;
+	width: 180px;
+	padding: 15px 20px;
+	position: relative;
+	top: 40px;
+	margin: 0 20px;
+}
+
+.Innercont3
+{
+	border: 5px ridge black;
+	width: 180px;
+	padding: 15px 20px;
+	position: relative;
+	top: 40px;
+	margin: 0 20px;
+}
+
+.Innercont4
+{
+	border: 5px ridge black;
+	width: 180px;
+	padding: 15px 20px;
+	position: relative;
+	top: 40px;
+	margin: 0 20px;
+}
+
+.Innercont5
+{
+	border: 5px ridge black;
+	width: 180px;
+	padding: 15px 20px;
+	position: relative;
+	top: 40px;
+	margin: 0 20px;
+}
+
+.bottomspace
+{
+	margin-top: 100px;
+}
